@@ -1,0 +1,20 @@
+My associate id:
+844531
+
+Other team members:
+844531,844607,844587844578,844548
+
+Team lead:
+844548
+
+My Role in team:
+To designed Home Page.
+
+
+My development files:
+home-component
+
+
+
+
+
